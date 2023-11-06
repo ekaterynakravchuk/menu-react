@@ -1,0 +1,19 @@
+.img {
+  width: 100%;
+  height: auto;
+}
+.menuNamePrice {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h3 {
+  text-transform: capitalize;
+}
+.span {
+  display: inline-block;
+  padding: 0px 5px;
+  background-color: #f59e0b;
+  color: #fff;
+  border-radius: 5px;
+}
